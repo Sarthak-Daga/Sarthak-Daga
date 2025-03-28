@@ -1,7 +1,7 @@
 <h1 align="center"> 🚀 Sarthak Daga | Full-Stack Developer & Cybersecurity Enthusiast </h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Sarthak+Daga;Cybersecurity+Learner;Passionate+about+AI%2C+ML%2C+and+Web+Development" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
@@ -67,7 +67,7 @@ Tech: **Python, OpenCV**
 
 [![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthak-Daga&show_icons=true&theme=dark)](https://github.com/Sarthak-Daga)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sarthak-Daga&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Sarthak-Daga&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Daga&layout=compact&theme=dark)](https://github.com/Sarthak-Daga)
  
