@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Sarthak Daga | Full-Stack Developer & Cybersecurity Enthusiast </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Sarthak+Daga;Full-Stack+Developer+%7C+Cybersecurity+Learner;Passionate+about+AI%2C+ML%2C+and+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Sarthak+Daga;Cybersecurity+Learner;Passionate+about+AI%2C+ML%2C+and+Web+Development" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,14 +63,14 @@ Tech: **Python, OpenCV**
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Daga&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthak-Daga&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Daga&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>  
+## 📊 GitHub Stats
+
+[![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthak-Daga&show_icons=true&theme=dark)](https://github.com/Sarthak-Daga)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sarthak-Daga&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Daga&layout=compact&theme=dark)](https://github.com/Sarthak-Daga)
+ 
 
 ---
 
