@@ -1,7 +1,9 @@
 <h1 align="center"> 🚀 Sarthak Daga | Full-Stack Developer & Cybersecurity Enthusiast </h1>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Sarthak+Daga;Cybersecurity+Learner;Passionate+about+AI%2C+ML%2C+and+Web+Development" alt="Typing SVG" />
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Sarthak+Daga;Cybersecurity+Enthusiast;Passionate+about+AI%2C+ML%2C+and+Cybersecurity" alt="Typing SVG" />
+</p>
+
+
 
 ---
 
@@ -11,16 +13,7 @@
 ⚡ Love solving problems, optimizing performance, and building scalable solutions!  
 🎯 Currently learning **Neural Networks & Cybersecurity**  
 
----
-
-## 🛠️ Tech Stack  
-
-### 🚀 Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+--- 
 
 ## 🛠️ Tech Stack
 
